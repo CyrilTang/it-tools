@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 import { layouts } from './layouts/index';
 import HomePage from './pages/Home.page.vue';
 import NotFound from './pages/404.page.vue';
+import baidu_verify_codeva-E6JRia3cyi.html from 'baidu_verify_codeva-E6JRia3cyi.html';
 import { tools } from './tools';
 import { config } from './config';
 import { routes as demoRoutes } from './ui/demo/demo.routes';
